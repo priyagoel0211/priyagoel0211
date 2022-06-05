@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Priya Kansal
+- 🧑‍💻 Senior AI Researcher at [Couger Inc](https://couger.co.jp/visualcortex/))
+- 🏯 I am from India and living in Tokyo
+- 👀 I’m interested in computer vision and fianace
+- 🌱 I’m currently learning estimating face geometery using computer vision
+- 💞️ I’m looking to collaborate on Computer Vision projects 
+- 📫 Can be find on [Linkedin](https://www.linkedin.com/in/dr-priya-kansal/)
+
+<!---
+priyagoel0211/priyagoel0211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
